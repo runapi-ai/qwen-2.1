@@ -1,0 +1,10 @@
+{
+  "name": "qwen-2.1",
+  "version": "0.1.0",
+  "description": "RunAPI Qwen 2.1 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/qwen-2.1/SKILL.md"
+    }
+  ]
+}
